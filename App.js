@@ -10,7 +10,7 @@ Amplify.configure(awsconfig);
 const App = () => {
   return (
     <View style={styles.container}>
-      <Ionicons name="ios-home" size={24} />
+      <Text> Hi how are you !</Text>
     </View>
   );
 };
